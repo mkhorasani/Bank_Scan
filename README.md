@@ -1,5 +1,5 @@
 # Bank Scan
-A Fintech application using natural language processing and data mining techniques to analyze and determine the financial health of banking clients.
+Bank Scan is an application that will read your bank statement, determine how much credit, debit and balance you have had, and will even decipher in what categories you have been spending your money in. Finally, it will tender a 'financial health score' that will indicate to what degree of well-being your finances are in. All of this is done with the utility of techniques such as natural language processing, data mining and most saliently - artificial intelligence. 
 
 ## Installation:
 1. Place BankScan v1.0.py into your local directory
